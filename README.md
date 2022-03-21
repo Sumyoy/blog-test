@@ -10,6 +10,8 @@
     1. 黑契
     2. 钢炼
 
+一个新闻[坠机]https://www.bilibili.com/video/BV13S4y1g7iq?spm_id_from=333.337.search-card.all.click
+
 写一段代码
 
 ```javascript
